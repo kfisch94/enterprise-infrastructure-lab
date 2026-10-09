@@ -1,0 +1,8 @@
+Filename: config-FW01.home.arpa-20261008043022.xml
+Private host location: C:\LabBackups\FW01
+Bytes: 36887
+SHA256: C114789F6D8300ACDD8A9741182CB80A21151646AE63240DFADC4A24F5C4DB0D
+Context: Export requested after verified2.7.0 upgrade/regression checks.
+Inspection: OpenSSL salted encrypted-data marker present; not cleartext XML.
+Password/decryption/restore not tested for this export.
+Configuration payload/password excluded from portfolio.

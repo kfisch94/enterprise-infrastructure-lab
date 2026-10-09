@@ -1,0 +1,7 @@
+Filename: config-FW01.home.arpa-20261008034829.xml
+Private host location: C:\LabBackups\FW01
+Bytes: 36692
+SHA256: CFE001438ACF5BD48C2C7BF491D722F6C1E6B2F2D7970CDF5845C330CEC07C25
+Inspection: OpenSSL salted encrypted-data base64 marker present; not cleartext configuration XML.
+Not verified: password correctness, decryption, All configuration scope, successful recovery.
+Configuration contents and password are excluded from portfolio.

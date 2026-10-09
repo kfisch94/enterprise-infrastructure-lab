@@ -1,0 +1,10 @@
+Private host backup metadata only
+Name: config-FW01.home.arpa-20261008171116.xml
+Location: C:\LabBackups\FW01
+Bytes: 37582
+SHA256: 94D5846A2534DEF3862836E70C8B19F07D0FF4DF09B7F26E577BB1DAB0A4C366
+Salted encrypted-data marker present: True
+Parses as clear XML: False
+Associated milestone: final pfSense CE 2.9.0 checkpoint
+Decryption/restore of this checkpoint: Not tested
+No configuration contents/password retained in portfolio.
