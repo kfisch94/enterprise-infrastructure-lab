@@ -1,0 +1,7 @@
+Filename: config-FW01.home.arpa-20261008203406.xml
+Private host location: C:\LabBackups\FW01
+Bytes: 85617
+SHA256: 1C6CDDA5D95ABA1FB7392D82EC844C18FA762D9B4A8C8326FD77DFFD2FEC82BA
+Inspection: OpenSSL salted encrypted-data base64 marker present; cleartext pfsense configuration XML marker absent.
+Not verified: decryption/password correctness, configuration scope, restore of this checkpoint.
+Configuration payload and password remain outside portfolio.
