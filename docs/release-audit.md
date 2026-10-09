@@ -2,8 +2,8 @@
 
 Checks performed on the local portfolio before publication.
 
-- Files inspected: 346.
-- Local Markdown references checked: 141.
+- Files inspected: 348.
+- Local Markdown references checked: 463.
 - Missing local targets: 0.
 - Restricted file types / environment files found: 0.
 - Selected secret-pattern indicators: 0.
@@ -19,8 +19,8 @@ No findings in these automated checks.
 |---|---|
 | (none) | 2 |
 | .csv | 1 |
-| .html | 1 |
-| .md | 45 |
+| .html | 2 |
+| .md | 46 |
 | .png | 283 |
 | .ps1 | 4 |
 | .py | 2 |
