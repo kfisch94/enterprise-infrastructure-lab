@@ -1,0 +1,10 @@
+Private host backup metadata only
+Name: config-FW01.home.arpa-20261008185413.xml
+Location: C:\LabBackups\FW01
+Bytes: 49107
+SHA256: 923CB9F437609DB632314DAA33CAD360B3BD6AA7E2102FAF36BEE6553DCEF939
+Salted encrypted-data marker present: True
+Parses as clear XML: False
+Milestone: employee web access and DNS filtering
+Decryption/restore of this checkpoint: Not tested
+No configuration contents/password retained in portfolio.
