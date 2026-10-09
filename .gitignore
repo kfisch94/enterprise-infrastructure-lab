@@ -1,0 +1,29 @@
+# VM disks, runtime files, and archives
+*.vmdk
+*.vmem
+*.vmss
+*.vmsn
+*.nvram
+*.iso
+*.zip
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+private/
+
+# Keep unreviewed exports out of the portfolio
+config.xml
+config-*.xml
+
+# Editor / OS artifacts
+Thumbs.db
+.DS_Store
+
+# Generated Python runtime artifacts
+__pycache__/
+*.py[cod]
